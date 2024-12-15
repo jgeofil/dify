@@ -21,6 +21,5 @@ updates:
     directories: 
       - "/api"
       - "/web"
-      - "/docker"
     schedule:
       interval: "weekly"
