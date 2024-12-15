@@ -171,7 +171,7 @@ weaviate-client = "~3.21.0"
 [tool.poetry.group.dev]
 optional = true
 [tool.poetry.group.dev.dependencies]
-coverage = "~7.2.4"
+coverage = "~7.6.9"
 faker = "~32.1.0"
 pytest = "~8.3.2"
 pytest-benchmark = "~4.0.0"
